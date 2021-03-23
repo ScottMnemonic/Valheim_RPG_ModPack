@@ -13,3 +13,5 @@ https://www.nexusmods.com/valheim/mods/281?tab=files&file_id=1001
 EpicLoot 0.6.3
 https://www.nexusmods.com/valheim/mods/387?tab=description
 
+Craft from Containers 1.9.0
+https://www.nexusmods.com/valheim/mods/40?tab=files
