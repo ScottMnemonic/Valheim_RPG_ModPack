@@ -162,8 +162,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 5 },
-        { "item": "Coins",          "amount": 1 }
+        { "item": "RunestoneMagic", "amount": 3 },
+        { "item": "Coins",          "amount": 10 }
       ]
     },
     {
@@ -172,8 +172,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "RunestoneRare", "amount": 5  },
-        { "item": "Coins",         "amount": 5 }
+        { "item": "RunestoneRare", "amount": 3  },
+        { "item": "Coins",         "amount": 25 }
       ]
     },
     {
@@ -182,8 +182,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "RunestoneEpic", "amount": 5  },
-        { "item": "Coins",         "amount": 10 }
+        { "item": "RunestoneEpic", "amount": 3  },
+        { "item": "Coins",         "amount": 50 }
       ]
     },
 
