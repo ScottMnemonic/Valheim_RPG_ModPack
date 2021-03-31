@@ -10,8 +10,11 @@ https://www.nexusmods.com/valheim/mods/189?tab=description
 Extended Item Data Framework 1.0.0
 https://www.nexusmods.com/valheim/mods/281?tab=files&file_id=1001
 
-EpicLoot 0.6.3
+EpicLoot 0.6.4
 https://www.nexusmods.com/valheim/mods/387?tab=description
 
 AnyPortal 1.0.4
 https://www.nexusmods.com/valheim/mods/170?tab=description
+
+Smarter Containers 1.5.1
+https://www.nexusmods.com/valheim/mods/332?tab=description
